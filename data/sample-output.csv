@@ -1,0 +1,4 @@
+recordKey,recordType,sourceStatus,isPartial,sourceUrl,name,specialty,address,city,zipcode
+search:c3332f3a411becf107492fe7,search_result,success,False,https://www.doctolib.fr/dentiste/paris/nadine-omeish-2fed1ea4-8c1c-4d92-ac81-8163a470ca6d?pid=practice-192553,Nadine Omeish,Dental surgeon,45 Avenue Georges Bernanos,Paris,75005
+search:e82ef3f858c7b95d7e1fe4fb,search_result,success,False,https://www.doctolib.fr/centre-de-sante/paris/centres-de-sante-porte-montmartre?pid=practice-38379,Centre dentaire de la Porte Montmartre,Dental surgeon,9 Rue Maurice Grimaud,Paris,75018
+search:084c18b4a749f4c76a5865d4,search_result,success,False,https://www.doctolib.fr/dentiste/paris/marine-jaffres?pid=practice-641016,Marine Jaffres,Dental surgeon,5 Rue de Maubeuge,Paris,75009

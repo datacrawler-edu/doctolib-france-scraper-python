@@ -1,0 +1,15 @@
+{
+  "profileSlugs": [],
+  "locale": "fr",
+  "includeRegion": false,
+  "maxPagesPerSearch": 1,
+  "maxResultsPerSearch": 20,
+  "maxTotalRecords": 3,
+  "continueOnError": true,
+  "searchKeywords": [
+    "dentiste"
+  ],
+  "searchCities": [
+    "Paris"
+  ]
+}

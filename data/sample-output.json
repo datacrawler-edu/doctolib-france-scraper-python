@@ -1,0 +1,318 @@
+[
+  {
+    "recordType": "search_result",
+    "schemaVersion": 1,
+    "recordKey": "search:c3332f3a411becf107492fe7",
+    "sourceType": "search",
+    "sourceInput": "dentiste | Paris | page=0",
+    "sourceUrl": "https://www.doctolib.fr/dentiste/paris/nadine-omeish-2fed1ea4-8c1c-4d92-ac81-8163a470ca6d?pid=practice-192553",
+    "retrievedAt": "2026-10-23T10:54:30.583393+00:00",
+    "sourceStatus": "success",
+    "isPartial": false,
+    "partialReason": null,
+    "partialReasons": [],
+    "profile": null,
+    "searchResult": {
+      "keyword": "dentiste",
+      "location": {
+        "name": "Paris",
+        "country": "fr",
+        "type": "locality",
+        "viewport": {
+          "northeast": {
+            "lat": 48.902148,
+            "lng": 2.469851
+          },
+          "southwest": {
+            "lat": 48.815562,
+            "lng": 2.224219
+          }
+        },
+        "gpsPoint": {
+          "lat": 48.8589,
+          "lng": 2.347
+        }
+      },
+      "page": 0,
+      "total": 8231,
+      "searchedLocation": {
+        "lat": 48.858855,
+        "lng": 2.347035
+      },
+      "provider": {
+        "providerId": "profile-276626;practice-192553;dentiste",
+        "type": "INDIVIDUAL_PRACTITIONER",
+        "name": "Omeish ",
+        "firstName": "Nadine",
+        "title": "Dr",
+        "gender": null,
+        "cloudinaryPublicId": "n6gw54lcsf3cjvakzgv5",
+        "languages": [
+          "gb",
+          "ar",
+          "es",
+          "fr"
+        ],
+        "profileUrl": "https://www.doctolib.fr/dentiste/paris/nadine-omeish-2fed1ea4-8c1c-4d92-ac81-8163a470ca6d?pid=practice-192553",
+        "speciality": {
+          "id": null,
+          "kind": null,
+          "slug": "dentiste",
+          "name": "Dental surgeon"
+        },
+        "location": {
+          "address": "45 Avenue Georges Bernanos",
+          "city": "Paris",
+          "country": "fr",
+          "latitude": 48.8397994,
+          "longitude": 2.3374293,
+          "zipcode": "75005",
+          "distanceInMeters": null
+        },
+        "exactMatch": true,
+        "onlineBooking": {
+          "agendaIds": [
+            "485029"
+          ],
+          "telehealth": false,
+          "bookableOrganizationSpecialities": []
+        },
+        "matchedVisitMotive": {
+          "agendaIds": [
+            "485029"
+          ],
+          "allowNewPatients": true,
+          "name": "Première consultation dentaire",
+          "visitMotiveId": "2908782"
+        },
+        "references": {
+          "id": "276626",
+          "type": "public_profile",
+          "practiceId": "192553"
+        },
+        "services": [
+          "profile",
+          "onlineBooking"
+        ],
+        "paymentMeans": [
+          "cash",
+          "check",
+          "credit_card"
+        ],
+        "administrativeArea": [],
+        "regulationSector": "contracted",
+        "minimumFee": null
+      }
+    }
+  },
+  {
+    "recordType": "search_result",
+    "schemaVersion": 1,
+    "recordKey": "search:e82ef3f858c7b95d7e1fe4fb",
+    "sourceType": "search",
+    "sourceInput": "dentiste | Paris | page=0",
+    "sourceUrl": "https://www.doctolib.fr/centre-de-sante/paris/centres-de-sante-porte-montmartre?pid=practice-38379",
+    "retrievedAt": "2026-10-23T10:54:31.027095+00:00",
+    "sourceStatus": "success",
+    "isPartial": false,
+    "partialReason": null,
+    "partialReasons": [],
+    "profile": null,
+    "searchResult": {
+      "keyword": "dentiste",
+      "location": {
+        "name": "Paris",
+        "country": "fr",
+        "type": "locality",
+        "viewport": {
+          "northeast": {
+            "lat": 48.902148,
+            "lng": 2.469851
+          },
+          "southwest": {
+            "lat": 48.815562,
+            "lng": 2.224219
+          }
+        },
+        "gpsPoint": {
+          "lat": 48.8589,
+          "lng": 2.347
+        }
+      },
+      "page": 0,
+      "total": 8231,
+      "searchedLocation": {
+        "lat": 48.858855,
+        "lng": 2.347035
+      },
+      "provider": {
+        "providerId": "profile-67556;practice-38379;dentiste",
+        "type": "ORGANIZATION",
+        "name": "Centre dentaire de la Porte Montmartre ",
+        "firstName": null,
+        "title": null,
+        "gender": null,
+        "cloudinaryPublicId": "t7yxw3hmllfnoljd5xmd",
+        "languages": [],
+        "profileUrl": "https://www.doctolib.fr/centre-de-sante/paris/centres-de-sante-porte-montmartre?pid=practice-38379",
+        "speciality": {
+          "id": null,
+          "kind": null,
+          "slug": "dentiste",
+          "name": "Dental surgeon"
+        },
+        "location": {
+          "address": "9 Rue Maurice Grimaud",
+          "city": "Paris",
+          "country": "fr",
+          "latitude": 48.8998569,
+          "longitude": 2.33683510000003,
+          "zipcode": "75018",
+          "distanceInMeters": null
+        },
+        "exactMatch": true,
+        "onlineBooking": {
+          "agendaIds": [
+            "1718812",
+            "104502",
+            "215996",
+            "896147"
+          ],
+          "telehealth": false,
+          "bookableOrganizationSpecialities": [
+            "4 dental surgeons"
+          ]
+        },
+        "matchedVisitMotive": {
+          "agendaIds": [
+            "104502",
+            "215996"
+          ],
+          "allowNewPatients": true,
+          "name": "Consultation dentaire",
+          "visitMotiveId": "650819"
+        },
+        "references": {
+          "id": "67556",
+          "type": "public_profile",
+          "practiceId": "38379"
+        },
+        "services": [
+          "profile",
+          "onlineBooking"
+        ],
+        "paymentMeans": [
+          "cash",
+          "check",
+          "credit_card",
+          "bank_transfer"
+        ],
+        "administrativeArea": [],
+        "regulationSector": "organization_contracted",
+        "minimumFee": null
+      }
+    }
+  },
+  {
+    "recordType": "search_result",
+    "schemaVersion": 1,
+    "recordKey": "search:084c18b4a749f4c76a5865d4",
+    "sourceType": "search",
+    "sourceInput": "dentiste | Paris | page=0",
+    "sourceUrl": "https://www.doctolib.fr/dentiste/paris/marine-jaffres?pid=practice-641016",
+    "retrievedAt": "2026-10-23T10:54:31.434472+00:00",
+    "sourceStatus": "success",
+    "isPartial": false,
+    "partialReason": null,
+    "partialReasons": [],
+    "profile": null,
+    "searchResult": {
+      "keyword": "dentiste",
+      "location": {
+        "name": "Paris",
+        "country": "fr",
+        "type": "locality",
+        "viewport": {
+          "northeast": {
+            "lat": 48.902148,
+            "lng": 2.469851
+          },
+          "southwest": {
+            "lat": 48.815562,
+            "lng": 2.224219
+          }
+        },
+        "gpsPoint": {
+          "lat": 48.8589,
+          "lng": 2.347
+        }
+      },
+      "page": 0,
+      "total": 8231,
+      "searchedLocation": {
+        "lat": 48.858855,
+        "lng": 2.347035
+      },
+      "provider": {
+        "providerId": "profile-731315;practice-641016;dentiste",
+        "type": "INDIVIDUAL_PRACTITIONER",
+        "name": "Jaffres",
+        "firstName": "Marine",
+        "title": "Dr",
+        "gender": null,
+        "cloudinaryPublicId": "fppoxayletonbdtw7yys",
+        "languages": [
+          "gb",
+          "es",
+          "fr",
+          "pt"
+        ],
+        "profileUrl": "https://www.doctolib.fr/dentiste/paris/marine-jaffres?pid=practice-641016",
+        "speciality": {
+          "id": null,
+          "kind": null,
+          "slug": "dentiste",
+          "name": "Dental surgeon"
+        },
+        "location": {
+          "address": "5 Rue de Maubeuge",
+          "city": "Paris",
+          "country": "fr",
+          "latitude": 48.8764575,
+          "longitude": 2.340862,
+          "zipcode": "75009",
+          "distanceInMeters": null
+        },
+        "exactMatch": true,
+        "onlineBooking": {
+          "agendaIds": [
+            "861473"
+          ],
+          "telehealth": false,
+          "bookableOrganizationSpecialities": []
+        },
+        "matchedVisitMotive": {
+          "agendaIds": [
+            "861473"
+          ],
+          "allowNewPatients": true,
+          "name": "Consultation de suivi dentaire",
+          "visitMotiveId": "6818962"
+        },
+        "references": {
+          "id": "731315",
+          "type": "public_profile",
+          "practiceId": "641016"
+        },
+        "services": [
+          "profile",
+          "onlineBooking"
+        ],
+        "paymentMeans": [],
+        "administrativeArea": [],
+        "regulationSector": null,
+        "minimumFee": null
+      }
+    }
+  }
+]

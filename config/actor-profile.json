@@ -1,0 +1,147 @@
+{
+  "repository": {
+    "name": "doctolib-france-scraper-python",
+    "description": "Python, JavaScript and cURL examples to collect public Doctolib France profiles by specialty and city and export Dataset results to JSON or CSV.",
+    "homepage": "https://apify.com/datascraperes/doctolib-france-scraper?fpr=edudata",
+    "language": "Python",
+    "license": "MIT"
+  },
+  "actor": {
+    "displayName": "Doctolib France Scraper | Doctors & Clinics",
+    "id": "datascraperes/doctolib-france-scraper",
+    "storeUrl": "https://apify.com/datascraperes/doctolib-france-scraper",
+    "apiBaseUrl": "https://api.apify.com/v2/acts/datascraperes~doctolib-france-scraper",
+    "description": "Collect public Doctolib France provider search results and profiles, with practice details and optional region enrichment."
+  },
+  "affiliate": {
+    "enabled": true,
+    "parameter": "fpr=edudata",
+    "actorUrl": "https://apify.com/datascraperes/doctolib-france-scraper?fpr=edudata",
+    "pricingUrl": "https://apify.com/pricing?fpr=edudata"
+  },
+  "platform": {
+    "apifyFreePlan": {
+      "monthlyPrepaidUsage": "$5",
+      "renewsMonthly": true,
+      "noCreditCardRequired": true,
+      "unusedCreditsExpire": true,
+      "sourceUrl": "https://apify.com/pricing?fpr=edudata"
+    }
+  },
+  "interfaces": {
+    "web": {
+      "enabled": true,
+      "inputTab": "Input",
+      "outputTab": "Dataset",
+      "runAction": "Start",
+      "primaryInput": "searchKeywords and searchCities",
+      "inputLabel": "Specialties or keywords; Cities in France",
+      "inputSummary": "Enter French specialties and complete French city names, or supply public profile slugs.",
+      "exportFormats": [
+        "JSON",
+        "CSV",
+        "Excel"
+      ]
+    },
+    "api": {
+      "enabled": true,
+      "examples": [
+        "cURL",
+        "Python",
+        "JavaScript"
+      ]
+    }
+  },
+  "seo": {
+    "primaryKeyword": "Doctolib France scraper Python",
+    "secondaryKeywords": [
+      "Doctolib doctor profiles API",
+      "Doctolib specialty city search",
+      "export Doctolib data CSV"
+    ],
+    "topics": [
+      "doctolib",
+      "france",
+      "python",
+      "apify",
+      "api-examples",
+      "data-extraction",
+      "csv-export",
+      "healthcare-data"
+    ],
+    "longTailIntents": [
+      "Search Doctolib France by specialty and city with Python",
+      "Export Doctolib Dataset results to CSV without starting another run",
+      "Collect public Doctolib profiles with JavaScript"
+    ]
+  },
+  "content": {
+    "readmeSectionOrder": [
+      "What this repository helps you do",
+      "Example result",
+      "Run without code",
+      "Try it with Apify's free plan",
+      "Quick start for developers",
+      "Input example",
+      "Request examples",
+      "Output fields",
+      "Common use cases",
+      "Long-tail use-case sections",
+      "FAQ",
+      "Limits and pricing",
+      "Hosted version",
+      "Responsible use",
+      "Support"
+    ],
+    "exampleFiles": [
+      "examples/python/request.py",
+      "examples/python/batch_search.py",
+      "examples/python/export_results.py"
+    ],
+    "faqFile": "docs/faq.md"
+  },
+  "pricing": {
+    "summary": "One billable event per unique public result delivered; account tier discounts apply.",
+    "unit": "one delivered public result",
+    "price": "$1 per 1,000 results at the FREE tier"
+  },
+  "distribution": {
+    "githubUrl": "https://github.com/datacrawler-edu/doctolib-france-scraper-python",
+    "actorToGithubUrl": "https://github.com/datacrawler-edu/doctolib-france-scraper-python",
+    "githubToActorUrl": "https://apify.com/datascraperes/doctolib-france-scraper?fpr=edudata",
+    "organizationHubUrl": "https://github.com/your-org",
+    "firstRelease": {
+      "tag": "v0.1.0",
+      "title": "Initial public examples"
+    }
+  },
+  "examples": {
+    "inputFile": "data/sample-input.json",
+    "outputFile": "data/sample-output.json",
+    "csvFile": "data/sample-output.csv"
+  },
+  "measurement": {
+    "observationWindowDays": 30,
+    "githubSignals": [
+      "views",
+      "uniqueVisitors",
+      "clones",
+      "referrers",
+      "popularContent"
+    ],
+    "apifySignals": [
+      "users",
+      "runs",
+      "datasetItems",
+      "revenue"
+    ],
+    "searchChecks": [
+      "site:github.com/datacrawler-edu/doctolib-france-scraper-python",
+      "Doctolib France scraper Python"
+    ]
+  },
+  "support": {
+    "issuesUrl": "https://github.com/datacrawler-edu/doctolib-france-scraper-python/issues",
+    "actorSupportUrl": "https://apify.com/datascraperes/doctolib-france-scraper?fpr=edudata"
+  }
+}
